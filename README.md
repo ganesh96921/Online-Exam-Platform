@@ -1,1 +1,1 @@
-# Online Quiz App using MERN Stack
+# Online Exam App using MERN Stack
